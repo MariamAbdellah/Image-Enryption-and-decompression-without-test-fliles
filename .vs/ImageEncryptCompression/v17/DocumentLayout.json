@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\imageoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|c:\\users\\jana morsy\\downloads\\image-encryption-and-compression-master (1)\\image-encryption-and-compression-master\\imageencryptcompress\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\imageencryptcompress\\priorityq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8077F-C27A-400D-B6C9-7737665499AC}|ImageEncryptCompress\\ImageEncryptCompress.csproj|solutionrelative:imageencryptcompress\\priorityq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:40:52.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\Encryption.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\Encryption.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\Encryption.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\Encryption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:19:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\Program.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\Program.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\Program.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:17:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.Designer.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwHYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:13:35.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\MainForm.cs [Design]",
+              "RelativeToolTip": "ImageEncryptCompress\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:14:18.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "priorityQ.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\priorityQ.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\priorityQ.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\priorityQ.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\priorityQ.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:13:35.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "huffman.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\huffman.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\huffman.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\huffman.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\huffman.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAmwPwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:13:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\ImageOperations.cs",
+              "RelativeDocumentMoniker": "ImageEncryptCompress\\ImageOperations.cs",
+              "ToolTip": "C:\\Users\\Jana Morsy\\Downloads\\Image-Encryption-and-Compression-master (1)\\Image-Encryption-and-Compression-master\\ImageEncryptCompress\\ImageOperations.cs",
+              "RelativeToolTip": "ImageEncryptCompress\\ImageOperations.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAEwGYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:13:35.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

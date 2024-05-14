@@ -1,0 +1,21 @@
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\Jana Morsy\Downloads\Image-Encryption-and-Compression-master (1)\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.SuggestedBindingRedirects.cache
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\vs\Image-Encryption-and-Compression-master\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
